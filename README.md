@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Facundo Puebla
 
-💻 Python Developer in training  
-🔄 Transitioning from industrial sector to software development  
-🏗️ Building desktop applications using MVC architecture  
-🗄️ Working with SQLite databases  
-🚀 Currently focused on backend fundamentals and software architecture  
+💻 Python Developer (in training)  
+🎓 Currently completing a Python Diploma  
+🔄 Transitioning from Industrial Sector to Software Development  
+🚀 Focused on Backend Fundamentals & Software Architecture
 
 ---
 
