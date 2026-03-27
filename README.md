@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Facundo Puebla
 
-💻 Python Developer (in training)  
-🎓 Currently completing a Python Diploma  
-🔄 Transitioning from Industrial Sector to Software Development  
-🚀 Focused on Backend Fundamentals & Software Architecture
+Python & AI Developer · Automatización · Bots · Dashboards
 
 ---
 
